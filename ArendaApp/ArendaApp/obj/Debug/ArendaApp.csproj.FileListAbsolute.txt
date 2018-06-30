@@ -1,0 +1,16 @@
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\bin\Debug\ArendaApp.exe.config
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\bin\Debug\ArendaApp.exe
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\bin\Debug\ArendaApp.pdb
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\bin\Debug\ArendaRESTLib.dll
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\bin\Debug\ArendaRESTLib.pdb
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\obj\Debug\ArendaApp.csprojResolveAssemblyReference.cache
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\obj\Debug\ArendaApp.exe
+F:\Projects\ArendaCS\src\ArendaApp\ArendaApp\obj\Debug\ArendaApp.pdb
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\bin\Debug\ArendaApp.exe.config
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\obj\Debug\ArendaApp.exe
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\obj\Debug\ArendaApp.pdb
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\bin\Debug\ArendaApp.exe
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\bin\Debug\ArendaApp.pdb
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\bin\Debug\ArendaRESTLib.dll
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\bin\Debug\ArendaRESTLib.pdb
+C:\Users\bakhyt\Desktop\рсои курсач\with database\Исходник_VSCS\ArendaApp\ArendaApp\obj\Debug\ArendaApp.csprojResolveAssemblyReference.cache

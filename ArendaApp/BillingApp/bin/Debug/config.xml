@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <service>
+    <url>http://127.0.0.1:3125/BillingService</url>
+  </service>
+  <database>
+    <server>192.168.3.128,1433</server>
+    <base>billing</base>
+    <user>sa</user>
+    <pass>12345678</pass>
+  </database>
+</config>
+

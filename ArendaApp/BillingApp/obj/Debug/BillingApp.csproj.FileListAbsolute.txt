@@ -1,0 +1,8 @@
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\bin\Debug\BillingApp.exe.config
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\bin\Debug\BillingApp.exe
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\bin\Debug\BillingApp.pdb
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\bin\Debug\ArendaRESTLib.dll
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\bin\Debug\ArendaRESTLib.pdb
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\obj\Debug\BillingApp.csprojResolveAssemblyReference.cache
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\obj\Debug\BillingApp.exe
+F:\Projects\ArendaCS\src\ArendaApp\BillingApp\obj\Debug\BillingApp.pdb

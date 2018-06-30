@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <portal>
+    <port>8123</port>
+  </portal>
+  <database>
+    <server>192.168.3.128:1433</server>
+    <base>portal</base>
+    <user>sa</user>
+    <pass>12345678</pass>
+  </database>
+  <services>
+    <service>
+      <id>1</id>
+      <type>arenda</type>
+      <url>http://127.0.0.1:3124/ArendaService</url>
+    </service>
+    <service>
+      <id>2</id>
+      <type>billing</type>
+      <url>http://127.0.0.1:3125/BillingService</url>
+    </service>
+    <service>
+      <id>3</id>
+      <type>reserve</type>
+      <url>http://127.0.0.1:3126/ReserveService</url>
+    </service>
+  </services>
+</config>
+

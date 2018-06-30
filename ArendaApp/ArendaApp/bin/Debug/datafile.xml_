@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<arenda>
+  <rooms>
+    <room>
+      <id>1</id>
+      <city>Санкт-Петербург</city>
+      <address>Санкт-Петербург, ул. Новая, 12</address>
+      <roomtype>Квартира</roomtype>
+      <price>45000</price>
+      <square>45</square>
+      <elite>true</elite>
+    </room>
+    <room>
+      <id>2</id>
+      <city>Москва</city>
+      <address>Москва, ул. Арбатская, 45</address>
+      <roomtype>Дом</roomtype>
+      <price>75000</price>
+      <square>70</square>
+      <elite>false</elite>
+    </room>
+    <room>
+      <id>3</id>
+      <city>Москва</city>
+      <address>Москва, ул. Северная, 58</address>
+      <roomtype>Аппартаменты</roomtype>
+      <price>150000</price>
+      <square>230</square>
+      <elite>true</elite>
+    </room>
+  </rooms>
+</arenda>
+

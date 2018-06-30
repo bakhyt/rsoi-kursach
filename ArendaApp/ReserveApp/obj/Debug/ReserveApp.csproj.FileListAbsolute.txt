@@ -1,0 +1,8 @@
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\bin\Debug\ReserveApp.exe.config
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\bin\Debug\ReserveApp.exe
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\bin\Debug\ReserveApp.pdb
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\bin\Debug\ArendaRESTLib.dll
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\bin\Debug\ArendaRESTLib.pdb
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\obj\Debug\ReserveApp.csprojResolveAssemblyReference.cache
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\obj\Debug\ReserveApp.exe
+F:\Projects\ArendaCS\src\ArendaApp\ReserveApp\obj\Debug\ReserveApp.pdb
